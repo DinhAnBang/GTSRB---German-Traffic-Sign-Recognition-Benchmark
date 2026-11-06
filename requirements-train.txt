@@ -1,0 +1,5 @@
+# Optional dependencies for retraining with Ultralytics.
+# Install this file only when a training dataset and a .pt checkpoint are available.
+-r requirements.txt
+ultralytics>=8.3,<9.0
+

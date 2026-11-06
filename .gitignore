@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.streamlit/
+*.log
+models/
+images/
+
